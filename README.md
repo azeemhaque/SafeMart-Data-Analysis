@@ -31,3 +31,5 @@ Insights for SafeMart:
 
 Final Conclusion to improve SafeMart’s sales:
 Target female customers of adult age group (20-49) years living in Maharashtra, Karnataka and Uttar Pradesh by showing advertisement/offers/coupons available on Amazon, Flipkart, and Myntra.
+
+![image](https://github.com/azeemhaque/SafeMart-Data-Analysis/assets/91793824/1e8501b5-9c20-45b8-a928-13c68e5837e4)
